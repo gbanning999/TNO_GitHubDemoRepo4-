@@ -19,7 +19,6 @@ import Exceptions.DuplicateItemException;
 //void printTree( )      --> Print all items
 //******************ERRORS********************************
 //Exceptions are thrown by insert if warranted and remove.
-//tests
 
 /**
 * Implements a red-black tree.
@@ -649,3 +648,4 @@ public class RedBlackTree<AnyType extends Comparable<? super AnyType>>
  
 
 }
+
